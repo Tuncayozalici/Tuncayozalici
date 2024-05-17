@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)
+![MasterHead](https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif)
 
 <h1 align="center">Hi 👋, I'm Tuncay Özalıcı</h1>
 <h3 align="center">Computer Vision & Artificial Intelligence Engineer</h3>
